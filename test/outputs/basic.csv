@@ -1,0 +1,9 @@
+code_line,variable,value_repr
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:6,df,"DataFrame[('name', 'age', 'height')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:9,n_people,4
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:11,names,Series[object]
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:12,ages,Series[int64]
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:14,doubled_ages,Series[int64]
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:16,df_filtered,"DataFrame[('name', 'age', 'height')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:18,df_projected,"DataFrame[('height', 'age')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/basic.py:22,oldest_person,'mehmet'

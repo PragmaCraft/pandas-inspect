@@ -1,0 +1,5 @@
+code_line,variable,value_repr
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/overwriting.py:18,df,"DataFrame[('name', 'age', 'height', 'id', 'lang')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/overwriting.py:7,df,"DataFrame[('name', 'age', 'height', 'id', 'lang', 'height_age_ind')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/overwriting.py:11,df,"DataFrame[('name', 'age', 'height', 'id', 'lang', 'height_age_ind', 'just_ones')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/overwriting.py:20,df,"DataFrame[('name', 'age', 'height', 'id', 'lang', 'height_age_ind', 'just_ones')]"

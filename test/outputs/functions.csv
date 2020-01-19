@@ -1,0 +1,12 @@
+code_line,variable,value_repr
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:38,df,"DataFrame[('name', 'age', 'height', 'id', 'lang')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:19,df_copy,"DataFrame[('name', 'age', 'height', 'id', 'lang')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:21,names,Series[object]
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:23,first_name,'ali'
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:25,some_age,15
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:27,df_filtered,"DataFrame[('name', 'age', 'height', 'id', 'lang')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:8,id_to_color,"DataFrame[('id', 'color')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:11,with_colors,"DataFrame[('name', 'age', 'height', 'id', 'lang', 'color')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:13,df,"DataFrame[('color', 'age', 'name')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:31,df_merged,"DataFrame[('color', 'age', 'name')]"
+/Users/yemre/Mess/CodeAnalysis/pandas_inspect/test/testcases/functions.py:40,df,"DataFrame[('color', 'age', 'name')]"
