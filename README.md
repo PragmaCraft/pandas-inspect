@@ -1,5 +1,5 @@
 # Pandas Inspect
-Pandas Inspect is a dynamic analysis tool for data science code. It tracks and reports the evolution of Pandas **DataFrame**s.
+Pandas Inspect is a dynamic analysis tool for data science code. It tracks and reports the evolution of Pandas DataFrames.
 
 ## How to Build & Install
 ```bash
